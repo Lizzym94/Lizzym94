@@ -1,8 +1,7 @@
 <p align="center"><img width="60%" alt="banner" src="./imagenes/bannerforgit.png" /></a></p>
 
 <br />
-
-<p align="center">Hola, soy **Liz**, **Ingeniera DevOps** apasionada de la automatización.</p>
+<p align="center">Hola, soy <b>Liz</b>, <b>Ingeniera DevOps</b> apasionada de la automatización.</p>
 
 ## 🙈 About Me
 
