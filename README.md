@@ -4,7 +4,7 @@
 
 Hola, soy **Liz**, **Ingeniera DevOps** apasionada de la automatización.
 
-## 👋 About Me
+## 🙈 About Me
 
 
 Me apasiona construir infraestructuras resilientes, seguras y escalables usando herramientas modernas como **AWS, Kubernetes (EKS/Fargate), Terraform, Jenkins, GitLab CI/CD y Docker**. Me enfoco en mejorar la eficiencia operativa a través de prácticas como **Infrastructure as Code (IaC)**, **observabilidad** y **GitOps**.
