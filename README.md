@@ -2,7 +2,7 @@
 
 <br />
 
-Hola, soy **Liz**, **Ingeniera DevOps** apasionada de la automatización.
+<p align="center">Hola, soy **Liz**, **Ingeniera DevOps** apasionada de la automatización.</p>
 
 ## 🙈 About Me
 
@@ -18,6 +18,7 @@ Me apasiona construir infraestructuras resilientes, seguras y escalables usando 
 - 🔧 Automatización: Jenkins, GitLab, Terraform, Ansible
 - 🔍 Observabilidad: Prometheus, Grafana, Loki, AWS X-Ray
 - 🛠️ CI/CD: GitOps, integración con bots, despliegues automatizados
+- 🤖 Integración de herramientas con chatbots (como Errbot)
 
 <code><img height="20" alt="docker" src="./imagenes/docker.png"></code>
 <code><img height="20" alt="jenkins" src="./imagenes/jenkins.png"></code>
@@ -29,7 +30,6 @@ Me apasiona construir infraestructuras resilientes, seguras y escalables usando 
 ---
 
 ### 🧩 Actualmente explorando
-- 🤖 Integración de herramientas con chatbots (como Errbot)
 - 📊 Monitoreo avanzado con AWS X-Ray y sidecars
 - 🔄 Optimización de pipelines y control de versiones en infraestructuras complejas
 
